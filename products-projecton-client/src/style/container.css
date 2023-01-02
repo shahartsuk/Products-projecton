@@ -1,0 +1,40 @@
+.list {
+  display: flex;
+  justify-content: left;
+  background-color: rgb(9, 112, 207);
+  width: 230px;
+  height: 100vh;
+}
+.Links {
+  text-decoration: none;
+  font-size: x-large;
+  display: flex;
+  color: white;
+}
+.icons {
+  color: white;
+  margin-top: -7px;
+  margin-right: 10px;
+}
+.Links:hover {
+  transform: scale(1.2);
+  transition: 1.2s;
+}
+.ul {
+  margin-top: 100px;
+}
+li {
+  list-style-type: none;
+  margin-bottom: 80px;
+}
+@media only screen and (max-width: 800px) {
+  .section-name {
+    display: none;
+  }
+  .list {
+    padding: 10px;
+  }
+  ul {
+    margin-left: -25px;
+  }
+}

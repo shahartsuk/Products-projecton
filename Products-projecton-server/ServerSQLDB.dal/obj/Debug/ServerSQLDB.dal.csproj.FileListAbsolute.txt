@@ -1,0 +1,6 @@
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.dal\bin\Debug\ServerSQLDB.dal.dll
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.dal\bin\Debug\ServerSQLDB.dal.pdb
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.dal\obj\Debug\ServerSQLDB.dal.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.dal\obj\Debug\ServerSQLDB.dal.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.dal\obj\Debug\ServerSQLDB.dal.dll
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.dal\obj\Debug\ServerSQLDB.dal.pdb

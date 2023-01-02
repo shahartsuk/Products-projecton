@@ -1,0 +1,6 @@
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.model\bin\Debug\ServerSQLDB.model.dll
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.model\bin\Debug\ServerSQLDB.model.pdb
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.model\obj\Debug\ServerSQLDB.model.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.model\obj\Debug\ServerSQLDB.model.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.model\obj\Debug\ServerSQLDB.model.dll
+C:\Users\shaha\source\repos\Client Server Auth0 SQL Db\ServerSQLDB.model\obj\Debug\ServerSQLDB.model.pdb

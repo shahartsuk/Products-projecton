@@ -1,0 +1,10 @@
+.msg-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+.space {
+  margin-top: 20px;
+}
